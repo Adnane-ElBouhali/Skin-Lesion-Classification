@@ -1,4 +1,4 @@
-# Skin Lesion Classification Challenge - IMA205
+# Skin Lesion Classification Challenge
 
 ## Project Overview
 This repository contains the code and documentation for a skin lesion classification project completed as part of the IMA205 course (Apprentissage pour l'image et la reconnaissance d'objets) at Télécom Paris in May 2024.
