@@ -58,7 +58,7 @@ The dataset consisted of 25,331 dermoscopic images of skin lesions, along with c
 Adnane El Bouhali
 
 ## Acknowledgements
-This project was completed as part of the IMA205 course at Télécom Paris. Special thanks to Pietro Gori and Elsa Angelini for their guidance throughout the project.
+This project was completed as part of the IMA205 course at Télécom Paris. Special thanks to Pietro Gori for their guidance throughout the project.
 
 ## References
 - [IEEE Article on Skin Lesion Classification](http://ieeexplore.ieee.org/document/918473/)
